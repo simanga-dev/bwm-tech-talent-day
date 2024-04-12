@@ -1,0 +1,6 @@
+[submodule "cloudadoption-api"]
+	path = cloudadoption-api
+	url = https://github.com/bmw-tech-talent-days/bmw.cloudadoption.sample-c
+[submodule "cloudadoption-web"]
+	path = cloudadoption-web
+	url = https://github.com/bmw-tech-talent-days/bmw.cloudadoption.sample-web
